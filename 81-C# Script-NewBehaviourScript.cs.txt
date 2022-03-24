@@ -6,7 +6,8 @@ using UnityEngine;
 public class #SCRIPTNAME# : MonoBehaviour
 {
     #region Variables
-
+    // Variables.
+    #NOTRIM#
     #endregion
 
     #region Unity Methods
@@ -24,11 +25,13 @@ public class #SCRIPTNAME# : MonoBehaviour
     #endregion
 
     #region Private Methods
-
+    // Private Methods.
+    #NOTRIM#
     #endregion
 
     #region Public Methods
-
+    // Public Methods.
+    #NOTRIM#
     #endregion
 }
 #ROOTNAMESPACEEND#
