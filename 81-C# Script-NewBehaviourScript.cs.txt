@@ -1,0 +1,39 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+///<summary>
+/// 
+///</summary>
+//[AddComponentMenu("Scripts/#SCRIPTNAME#")]
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    #region Variables
+    // Variables.
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region Unity Methods
+    #NOTRIM#
+    void Start()
+    {
+        #NOTRIM#
+    }
+    #NOTRIM#
+    void Update()
+    {
+        #NOTRIM#
+    }
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region Private Methods
+    // Private Methods.
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region Public Methods
+    // Public Methods.
+    #NOTRIM#
+    #endregion
+}
